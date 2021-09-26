@@ -1,5 +1,0 @@
-CÓMO: Dueño
-
-QUIERO: Registrar un administrador
-
-PARA: Llevar el control de la rockola

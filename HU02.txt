@@ -1,5 +1,0 @@
-CÓMO: Administrador
-
-QUIERO: Iniciar sesión, validando los datos.
-
-PARA: gestionar  el contenido de la rocklola
